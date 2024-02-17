@@ -1,6 +1,7 @@
 import CountUp from "react-countup";
 import { IoLocationSharp } from "react-icons/io5";
 import { motion } from "framer-motion";
+// hi
 
 const Hero = () => {
   return (
@@ -27,7 +28,7 @@ const Hero = () => {
             </span>
           </div>
           <div className="  border-none flex   bg-white rounded-md   pl-3 justify-between">
-            <IoLocationSharp className=" text-blue-600 text-2xl   m-1 " />
+            <IoLocationSharp className="text-blue-600 text-2xl m-1" />
             <input
               type="text"
               className=" border-none outline-none text-black"
